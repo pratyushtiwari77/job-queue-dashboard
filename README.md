@@ -2,6 +2,12 @@
 
 Submission for the React + NestJS assignment. Lets you create jobs, see them in a table, filter by status, move them through pending → running → completed/failed, and delete them.
 
+**Frontend**: 
+https://job-queue-dashboardss.vercel.app 
+ 
+**Backend**: 
+https://job-queue-dashboard-production.up.railway.app
+
 ## Tech stack
 -Backend: NestJS,  SQLite
 -Frontend: React 
